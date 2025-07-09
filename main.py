@@ -8,3 +8,6 @@ y= "cos"
 
 #Sprawdzenie statusu plików
 #git status
+
+#wyswietlenie galezi
+#git branch
